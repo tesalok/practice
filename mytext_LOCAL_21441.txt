@@ -11,8 +11,3 @@ Added by b1
 	[
 	Add by the branch member b1.
 	]
-	{
-	This is added by master 
-	we have to later check how merging with the branch will look like.
-	}
-
