@@ -3,36 +3,3 @@ Hello
 Good Weather!!
 
 I am in Bengaluru
-
-Added by b1
-	--hello b1
-	-- me adding some txt
-	--i'll make a change
-	
-	{
-	/*
-	This is added by master 
-	we have to later 
-	''adding comments'*/
-	
-	new content added
-	}
-
-
-	Best 
-	
-	we will watch T20 match today. 
-
-	watch a movie
-	Changes i have made here
-	'good movies'
-	Comedy, Action, music
-
-	RCB won the toss 
-	ABD
-	Virat Kholi
-	Sachin
-	India Cricket Team
-	Vinod Kambli
-
-
